@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusMvcStok", "BonusMvcStok\BonusMvcStok.csproj", "{D80AECEE-9745-4AF9-931D-442B36F5BD9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D80AECEE-9745-4AF9-931D-442B36F5BD9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D80AECEE-9745-4AF9-931D-442B36F5BD9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D80AECEE-9745-4AF9-931D-442B36F5BD9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D80AECEE-9745-4AF9-931D-442B36F5BD9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF3B4744-DFBB-475F-BE51-FD17DD5A485D}
+	EndGlobalSection
+EndGlobal
